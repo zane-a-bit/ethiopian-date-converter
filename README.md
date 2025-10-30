@@ -47,13 +47,13 @@ A high-quality field plug-in for SurveyCTO that provides an intuitive date picke
 ## Usage
 
 1. The plug-in defaults to Gregorian calendar.
-<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/15fe12a9-dc45-498c-bfbf-c5ebc094ed8e" />
+<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/15fe12a9-dc45-498c-bfbf-c5ebc094ed8e" />
 
 2. Use the toggle switch to switch between Gregorian (GC) and Ethiopian (EC) calendars.
-<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/8c70c0f8-7af9-4b05-be5d-8efe7984a3a8" />
+<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/8c70c0f8-7af9-4b05-be5d-8efe7984a3a8" />
 
 3. Select dates using the dropdown selectors or by clicking on the calendar grid.
-<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/2b355b1f-660d-414c-8ec1-8f5c8b05cef9" />
+<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/2b355b1f-660d-414c-8ec1-8f5c8b05cef9" />
 
 4. The selected date is automatically converted and displayed in both calendars.
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/88b0b80c-3c03-4fbb-90bf-261605005402" />
