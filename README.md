@@ -35,7 +35,8 @@ A high-quality field plug-in for SurveyCTO that provides an intuitive date picke
 2. Upload the files to your SurveyCTO server or include them in your form's media files.
 
 3. In your SurveyCTO form, add a text field and set its appearance to use this plug-in.
-4. ### Option 2: Download ZIP File
+
+ ### Option 2: Download ZIP File
 
 1. [Download the complete field plug-in package](ethiopian-date-picker.fieldplugin.zip)
 
