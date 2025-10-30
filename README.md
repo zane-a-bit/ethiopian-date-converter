@@ -1,4 +1,4 @@
-# Ethiopian Date Picker SurveyCTO Field Plug-in
+# scto-Ethiopian Date Picker SurveyCTO Field Plug-in
 
 A high-quality field plug-in for SurveyCTO that provides an intuitive date picker supporting both Gregorian (GC) and Ethiopian (EC) calendars with automatic conversion between them.
 
@@ -40,7 +40,6 @@ A high-quality field plug-in for SurveyCTO that provides an intuitive date picke
 
 1. The plug-in defaults to Gregorian calendar.
 <img width="824" height="868" alt="image" src="https://github.com/user-attachments/assets/15fe12a9-dc45-498c-bfbf-c5ebc094ed8e" />
-
 2. Use the toggle switch to switch between Gregorian (GC) and Ethiopian (EC) calendars.
 <img width="825" height="862" alt="image" src="https://github.com/user-attachments/assets/8c70c0f8-7af9-4b05-be5d-8efe7984a3a8" />
 
