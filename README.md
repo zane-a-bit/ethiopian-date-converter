@@ -38,7 +38,7 @@ A high-quality field plug-in for SurveyCTO that provides an intuitive date picke
 
  ### Option 2: Download ZIP File
 
-1. [Download the complete field plug-in package](https://github.com/zane-a-bit/ethiopian-date-converter/blob/main/ethiopian-date-picker.fieldplugin.zip)
+1. [Download the complete field plug-in package](https://github.com/zane-a-bit/ethiopian-date-converter/raw/refs/heads/main/ethiopian-date-picker.fieldplugin.zip)
 
 2. Extract the ZIP file and upload the contents to your SurveyCTO server or include them in your form's media files.
 
