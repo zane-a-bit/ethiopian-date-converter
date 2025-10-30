@@ -56,7 +56,7 @@ A high-quality field plug-in for SurveyCTO that provides an intuitive date picke
 <img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/2b355b1f-660d-414c-8ec1-8f5c8b05cef9" />
 
 4. The selected date is automatically converted and displayed in both calendars.
-<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/88b0b80c-3c03-4fbb-90bf-261605005402" />
+<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/88b0b80c-3c03-4fbb-90bf-261605005402" />
 
 5. Data is stored in JSON format including both calendar representations.
 
